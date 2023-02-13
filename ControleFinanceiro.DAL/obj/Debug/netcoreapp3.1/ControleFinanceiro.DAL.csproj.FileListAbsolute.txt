@@ -1,0 +1,13 @@
+D:\FullStack\ControleFinanceiro\ControleFinanceiro.API\ControleFinanceiro.DAL\bin\Debug\netcoreapp3.1\ControleFinanceiro.DAL.deps.json
+D:\FullStack\ControleFinanceiro\ControleFinanceiro.API\ControleFinanceiro.DAL\bin\Debug\netcoreapp3.1\ControleFinanceiro.DAL.dll
+D:\FullStack\ControleFinanceiro\ControleFinanceiro.API\ControleFinanceiro.DAL\bin\Debug\netcoreapp3.1\ControleFinanceiro.DAL.pdb
+D:\FullStack\ControleFinanceiro\ControleFinanceiro.API\ControleFinanceiro.DAL\bin\Debug\netcoreapp3.1\ControleFinanceiro.BLL.dll
+D:\FullStack\ControleFinanceiro\ControleFinanceiro.API\ControleFinanceiro.DAL\bin\Debug\netcoreapp3.1\ControleFinanceiro.BLL.pdb
+D:\FullStack\ControleFinanceiro\ControleFinanceiro.API\ControleFinanceiro.DAL\obj\Debug\netcoreapp3.1\ControleFinanceiro.DAL.csproj.AssemblyReference.cache
+D:\FullStack\ControleFinanceiro\ControleFinanceiro.API\ControleFinanceiro.DAL\obj\Debug\netcoreapp3.1\ControleFinanceiro.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\FullStack\ControleFinanceiro\ControleFinanceiro.API\ControleFinanceiro.DAL\obj\Debug\netcoreapp3.1\ControleFinanceiro.DAL.AssemblyInfoInputs.cache
+D:\FullStack\ControleFinanceiro\ControleFinanceiro.API\ControleFinanceiro.DAL\obj\Debug\netcoreapp3.1\ControleFinanceiro.DAL.AssemblyInfo.cs
+D:\FullStack\ControleFinanceiro\ControleFinanceiro.API\ControleFinanceiro.DAL\obj\Debug\netcoreapp3.1\ControleFinanceiro.DAL.csproj.CoreCompileInputs.cache
+D:\FullStack\ControleFinanceiro\ControleFinanceiro.API\ControleFinanceiro.DAL\obj\Debug\netcoreapp3.1\ControleFinanceiro.DAL.csproj.CopyComplete
+D:\FullStack\ControleFinanceiro\ControleFinanceiro.API\ControleFinanceiro.DAL\obj\Debug\netcoreapp3.1\ControleFinanceiro.DAL.dll
+D:\FullStack\ControleFinanceiro\ControleFinanceiro.API\ControleFinanceiro.DAL\obj\Debug\netcoreapp3.1\ControleFinanceiro.DAL.pdb
